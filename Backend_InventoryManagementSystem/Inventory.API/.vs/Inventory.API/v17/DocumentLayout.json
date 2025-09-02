@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mahi0\\OneDrive\\Desktop\\Wipro Sep\\Inventory-Management-System (2)\\Thammisetty_Mahi_CapstoneProject\\backend\\Inventory.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A89698-E841-4D92-A0B4-AF720D1DDD30}|Inventory.API\\Inventory.API.csproj|c:\\users\\mahi0\\onedrive\\desktop\\wipro sep\\inventory-management-system (2)\\thammisetty_mahi_capstoneproject\\backend\\inventory.api\\inventory.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F2A89698-E841-4D92-A0B4-AF720D1DDD30}|Inventory.API\\Inventory.API.csproj|solutionrelative:inventory.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A89698-E841-4D92-A0B4-AF720D1DDD30}|Inventory.API\\Inventory.API.csproj|c:\\users\\mahi0\\onedrive\\desktop\\wipro sep\\inventory-management-system (2)\\thammisetty_mahi_capstoneproject\\backend\\inventory.api\\inventory.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2A89698-E841-4D92-A0B4-AF720D1DDD30}|Inventory.API\\Inventory.API.csproj|solutionrelative:inventory.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A89698-E841-4D92-A0B4-AF720D1DDD30}|Inventory.API\\Inventory.API.csproj|c:\\users\\mahi0\\onedrive\\desktop\\wipro sep\\inventory-management-system (2)\\thammisetty_mahi_capstoneproject\\backend\\inventory.api\\inventory.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F2A89698-E841-4D92-A0B4-AF720D1DDD30}|Inventory.API\\Inventory.API.csproj|solutionrelative:inventory.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A89698-E841-4D92-A0B4-AF720D1DDD30}|Inventory.API\\Inventory.API.csproj|c:\\users\\mahi0\\onedrive\\desktop\\wipro sep\\inventory-management-system (2)\\thammisetty_mahi_capstoneproject\\backend\\inventory.api\\inventory.api\\migrations\\20250902041855_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2A89698-E841-4D92-A0B4-AF720D1DDD30}|Inventory.API\\Inventory.API.csproj|solutionrelative:inventory.api\\migrations\\20250902041855_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A89698-E841-4D92-A0B4-AF720D1DDD30}|Inventory.API\\Inventory.API.csproj|c:\\users\\mahi0\\onedrive\\desktop\\wipro sep\\inventory-management-system (2)\\thammisetty_mahi_capstoneproject\\backend\\inventory.api\\inventory.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2A89698-E841-4D92-A0B4-AF720D1DDD30}|Inventory.API\\Inventory.API.csproj|solutionrelative:inventory.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A89698-E841-4D92-A0B4-AF720D1DDD30}|Inventory.API\\Inventory.API.csproj|c:\\users\\mahi0\\onedrive\\desktop\\wipro sep\\inventory-management-system (2)\\thammisetty_mahi_capstoneproject\\backend\\inventory.api\\inventory.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2A89698-E841-4D92-A0B4-AF720D1DDD30}|Inventory.API\\Inventory.API.csproj|solutionrelative:inventory.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A89698-E841-4D92-A0B4-AF720D1DDD30}|Inventory.API\\Inventory.API.csproj|c:\\users\\mahi0\\onedrive\\desktop\\wipro sep\\inventory-management-system (2)\\thammisetty_mahi_capstoneproject\\backend\\inventory.api\\inventory.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2A89698-E841-4D92-A0B4-AF720D1DDD30}|Inventory.API\\Inventory.API.csproj|solutionrelative:inventory.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A89698-E841-4D92-A0B4-AF720D1DDD30}|Inventory.API\\Inventory.API.csproj|c:\\users\\mahi0\\onedrive\\desktop\\wipro sep\\inventory-management-system (2)\\thammisetty_mahi_capstoneproject\\backend\\inventory.api\\inventory.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2A89698-E841-4D92-A0B4-AF720D1DDD30}|Inventory.API\\Inventory.API.csproj|solutionrelative:inventory.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A89698-E841-4D92-A0B4-AF720D1DDD30}|Inventory.API\\Inventory.API.csproj|c:\\users\\mahi0\\onedrive\\desktop\\wipro sep\\inventory-management-system (2)\\thammisetty_mahi_capstoneproject\\backend\\inventory.api\\inventory.api\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2A89698-E841-4D92-A0B4-AF720D1DDD30}|Inventory.API\\Inventory.API.csproj|solutionrelative:inventory.api\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250902041855_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\mahi0\\OneDrive\\Desktop\\Wipro Sep\\Inventory-Management-System (2)\\Thammisetty_Mahi_CapstoneProject\\backend\\Inventory.API\\Inventory.API\\Migrations\\20250902041855_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Inventory.API\\Migrations\\20250902041855_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\mahi0\\OneDrive\\Desktop\\Wipro Sep\\Inventory-Management-System (2)\\Thammisetty_Mahi_CapstoneProject\\backend\\Inventory.API\\Inventory.API\\Migrations\\20250902041855_InitialCreate.cs",
+              "RelativeToolTip": "Inventory.API\\Migrations\\20250902041855_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T04:18:56.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mahi0\\OneDrive\\Desktop\\Wipro Sep\\Inventory-Management-System (2)\\Thammisetty_Mahi_CapstoneProject\\backend\\Inventory.API\\Inventory.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Inventory.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\mahi0\\OneDrive\\Desktop\\Wipro Sep\\Inventory-Management-System (2)\\Thammisetty_Mahi_CapstoneProject\\backend\\Inventory.API\\Inventory.API\\appsettings.json",
+              "RelativeToolTip": "Inventory.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-02T04:14:00.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\mahi0\\OneDrive\\Desktop\\Wipro Sep\\Inventory-Management-System (2)\\Thammisetty_Mahi_CapstoneProject\\backend\\Inventory.API\\Inventory.API\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Inventory.API\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\mahi0\\OneDrive\\Desktop\\Wipro Sep\\Inventory-Management-System (2)\\Thammisetty_Mahi_CapstoneProject\\backend\\Inventory.API\\Inventory.API\\Models\\Product.cs",
+              "RelativeToolTip": "Inventory.API\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T04:04:05.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\mahi0\\OneDrive\\Desktop\\Wipro Sep\\Inventory-Management-System (2)\\Thammisetty_Mahi_CapstoneProject\\backend\\Inventory.API\\Inventory.API\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Inventory.API\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\mahi0\\OneDrive\\Desktop\\Wipro Sep\\Inventory-Management-System (2)\\Thammisetty_Mahi_CapstoneProject\\backend\\Inventory.API\\Inventory.API\\Services\\AuthService.cs",
+              "RelativeToolTip": "Inventory.API\\Services\\AuthService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T19:13:52.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\mahi0\\OneDrive\\Desktop\\Wipro Sep\\Inventory-Management-System (2)\\Thammisetty_Mahi_CapstoneProject\\backend\\Inventory.API\\Inventory.API\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "Inventory.API\\Data\\SeedData.cs",
+              "ToolTip": "C:\\Users\\mahi0\\OneDrive\\Desktop\\Wipro Sep\\Inventory-Management-System (2)\\Thammisetty_Mahi_CapstoneProject\\backend\\Inventory.API\\Inventory.API\\Data\\SeedData.cs",
+              "RelativeToolTip": "Inventory.API\\Data\\SeedData.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAuwKcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T11:36:23.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mahi0\\OneDrive\\Desktop\\Wipro Sep\\Inventory-Management-System (2)\\Thammisetty_Mahi_CapstoneProject\\backend\\Inventory.API\\Inventory.API\\Program.cs",
+              "RelativeDocumentMoniker": "Inventory.API\\Program.cs",
+              "ToolTip": "C:\\Users\\mahi0\\OneDrive\\Desktop\\Wipro Sep\\Inventory-Management-System (2)\\Thammisetty_Mahi_CapstoneProject\\backend\\Inventory.API\\Inventory.API\\Program.cs",
+              "RelativeToolTip": "Inventory.API\\Program.cs",
+              "ViewState": "AgIAAP8AAAAAAAAAAAAgwA4BAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T11:34:07.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\mahi0\\OneDrive\\Desktop\\Wipro Sep\\Inventory-Management-System (2)\\Thammisetty_Mahi_CapstoneProject\\backend\\Inventory.API\\Inventory.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Inventory.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\mahi0\\OneDrive\\Desktop\\Wipro Sep\\Inventory-Management-System (2)\\Thammisetty_Mahi_CapstoneProject\\backend\\Inventory.API\\Inventory.API\\appsettings.Development.json",
+              "RelativeToolTip": "Inventory.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-02T04:20:48.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\mahi0\\OneDrive\\Desktop\\Wipro Sep\\Inventory-Management-System (2)\\Thammisetty_Mahi_CapstoneProject\\backend\\Inventory.API\\Inventory.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Inventory.API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\mahi0\\OneDrive\\Desktop\\Wipro Sep\\Inventory-Management-System (2)\\Thammisetty_Mahi_CapstoneProject\\backend\\Inventory.API\\Inventory.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Inventory.API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwB4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T06:37:18.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\mahi0\\OneDrive\\Desktop\\Wipro Sep\\Inventory-Management-System (2)\\Thammisetty_Mahi_CapstoneProject\\backend\\Inventory.API\\Inventory.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Inventory.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\mahi0\\OneDrive\\Desktop\\Wipro Sep\\Inventory-Management-System (2)\\Thammisetty_Mahi_CapstoneProject\\backend\\Inventory.API\\Inventory.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Inventory.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAYwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T06:33:41.215Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
