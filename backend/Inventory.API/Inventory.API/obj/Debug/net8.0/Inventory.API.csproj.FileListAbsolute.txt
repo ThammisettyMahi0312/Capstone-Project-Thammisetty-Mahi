@@ -535,3 +535,4 @@ C:\Users\mahi0\OneDrive\Desktop\Wipro Sep\Inventory-Management-System (2)\Thammi
 C:\Users\mahi0\OneDrive\Desktop\Wipro Sep\Inventory-Management-System (2)\Thammisetty_Mahi_CapstoneProject\backend\Inventory.API\Inventory.API\obj\Debug\net8.0\Inventory.API.pdb
 C:\Users\mahi0\OneDrive\Desktop\Wipro Sep\Inventory-Management-System (2)\Thammisetty_Mahi_CapstoneProject\backend\Inventory.API\Inventory.API\obj\Debug\net8.0\Inventory.API.genruntimeconfig.cache
 C:\Users\mahi0\OneDrive\Desktop\Wipro Sep\Inventory-Management-System (2)\Thammisetty_Mahi_CapstoneProject\backend\Inventory.API\Inventory.API\obj\Debug\net8.0\ref\Inventory.API.dll
+C:\Users\mahi0\OneDrive\Desktop\Wipro Sep\Inventory-Management-System (2)\Thammisetty_Mahi_CapstoneProject\backend\Inventory.API\Inventory.API\obj\Debug\net8.0\Inventory.API.sourcelink.json

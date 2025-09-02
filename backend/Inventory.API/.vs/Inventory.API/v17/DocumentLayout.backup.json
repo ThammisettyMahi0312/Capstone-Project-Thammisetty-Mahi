@@ -72,7 +72,7 @@
               "RelativeDocumentMoniker": "Inventory.API\\appsettings.json",
               "ToolTip": "C:\\Users\\mahi0\\OneDrive\\Desktop\\Wipro Sep\\Inventory-Management-System (2)\\Thammisetty_Mahi_CapstoneProject\\backend\\Inventory.API\\Inventory.API\\appsettings.json",
               "RelativeToolTip": "Inventory.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-09-02T04:14:00.703Z",
               "EditorCaption": ""
@@ -123,8 +123,7 @@
               "RelativeToolTip": "Inventory.API\\Program.cs",
               "ViewState": "AgIAAP8AAAAAAAAAAAAgwA4BAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T11:34:07.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-29T11:34:07.731Z"
             },
             {
               "$type": "Document",
